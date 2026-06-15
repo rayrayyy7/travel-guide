@@ -1,6 +1,15 @@
 # Santo Domingo
-* La Zona Colonial
-* Alcázar de Colón
 * Fortaleza Ozama
+* Alcázar de Colón
+* El Malecón
 
-![Place]
+# [picture of Santo Domingo]
+![alt text](image.png)
+## Foods from Santo Domingo
+* Mangu
+* Sancocho
+* La Bandera Dominicana
+
+### Link for travel tours of Santo Domingo
+[travel guide](https://www.godominicanrepublic.com/destinations/santo-domingo)
+
