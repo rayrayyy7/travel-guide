@@ -4,7 +4,7 @@
 * El Malecón
 
 # [picture of Santo Domingo]
-![alt text](image.png)
+![alt text](jpg.png)
 ## Foods from Santo Domingo
 * Mangu
 * Sancocho
